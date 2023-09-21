@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DAT-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\MY\CODE\GIT\DAT_PROJECT\Intermediate\Build\Win64\DAT_PROJECTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Z:\MY\CODE\GIT\DAT_PROJECT\Plugins\DAT\Intermediate\Build\Win64\UnrealEditor\Development\DAT\Module.DAT.cpp.obj"
+"Z:\MY\CODE\GIT\DAT_PROJECT\Plugins\DAT\Intermediate\Build\Win64\UnrealEditor\Development\DAT\Default.rc2.res"
+/OUT:"Z:\MY\CODE\GIT\DAT_PROJECT\Plugins\DAT\Intermediate\Build\Win64\UnrealEditor\Development\DAT\UnrealEditor-DAT-0001.lib"

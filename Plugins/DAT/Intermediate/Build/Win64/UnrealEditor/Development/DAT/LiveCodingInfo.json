@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DAT.cpp.obj": [
+			"DAT.init.gen.cpp.obj",
+			"DAT_AbilityFunctionLibrary.gen.cpp.obj",
+			"DAT_AI.gen.cpp.obj",
+			"DAT_AIBrainController.gen.cpp.obj",
+			"DAT_BaseAbility.gen.cpp.obj",
+			"DAT_ComplexAbility.gen.cpp.obj",
+			"DAT_CustomStructs.gen.cpp.obj",
+			"DAT.cpp.obj",
+			"DAT_AbilityDetails.cpp.obj",
+			"DAT_AbilityFunctionLibrary.cpp.obj",
+			"DAT_AI.cpp.obj",
+			"DAT_AIBrainController.cpp.obj",
+			"DAT_BaseAbility.cpp.obj",
+			"DAT_ComplexAbility.cpp.obj",
+			"DAT_CustomStructs.cpp.obj"
+		]
+	}
+}

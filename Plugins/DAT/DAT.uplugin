@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DAT Dynamic AI Tool",
+	"Description": "The DAT Dynamic AI Toolkit is a game-changing Unreal Engine 5 plugin designed to simplify and enhance AI development. With its suite of features, DAT enables developers to create highly responsive and adaptable AI characters for a wide range of game genres.",
+	"Category": "Other",
+	"CreatedBy": "LevProd",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DAT",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
